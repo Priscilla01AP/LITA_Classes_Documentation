@@ -1,2 +1,11 @@
 # LITA_Classes_Documentation
-my first project while learning data analysis will be documented here
+## SQL-Structured Query Language
+### SQL KEYS
+- Database key 
+- foreign key
+- candidate key
+- super key
+- surrogate key
+- composite key
+- primary key
+- Alternate key
